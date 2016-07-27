@@ -2,5 +2,9 @@
 
 This is my tutorial repository.
 
-I am making some changes here
-This is change
+<<<<<<< HEAD
+This are some lines
+
+*Another line right here
+*A third line
+>>>>>>> Tutorial
